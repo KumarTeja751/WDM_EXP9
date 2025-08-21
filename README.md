@@ -26,5 +26,8 @@ for this purpose.
 
 
 ### Output:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/df02fce9-2652-436e-98da-b799de460165" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b74d120b-e349-414c-8b10-eff624f3ec40" />
 
 ### Result:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ba88aa36-1ef3-44ec-83d6-fd6ba100d3fc" />
